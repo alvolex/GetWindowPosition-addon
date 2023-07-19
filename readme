@@ -1,0 +1,13 @@
+npm install to rebuild the addon
+
+You can then install this addon by going into your node application and running:
+
+npm install /path/to/this/directory
+
+
+Then you can use it in your code like this:
+
+import { getWindowPositionByName } from 'get-window-position'
+
+const position = getWindowPositionByName('Spotify Premium')
+console.log(position)
