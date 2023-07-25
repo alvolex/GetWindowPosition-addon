@@ -403,6 +403,16 @@
     "want_separate_host_toolset": 0,
     "nodedir": "C:\\Users\\volke\\AppData\\Local\\node-gyp\\Cache\\18.16.1",
     "standalone_static_library": 1,
-    "msbuild_path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe"
+    "msbuild_path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe",
+    "cache": "C:\\Users\\volke\\AppData\\Local\\npm-cache",
+    "globalconfig": "C:\\Program Files\\nodejs\\etc\\npmrc",
+    "global_prefix": "C:\\Program Files\\nodejs",
+    "init_module": "C:\\Users\\volke\\.npm-init.js",
+    "local_prefix": "C:\\Users\\volke\\Desktop\\adon",
+    "metrics_registry": "https://registry.npmjs.org/",
+    "node_gyp": "C:\\Users\\volke\\AppData\\Roaming\\nvm\\v18.16.1\\node_modules\\npm\\node_modules\\node-gyp\\bin\\node-gyp.js",
+    "prefix": "C:\\Program Files\\nodejs",
+    "userconfig": "C:\\Users\\volke\\.npmrc",
+    "user_agent": "npm/9.5.1 node/v18.16.1 win32 x64 workspaces/false"
   }
 }

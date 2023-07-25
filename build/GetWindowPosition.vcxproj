@@ -140,7 +140,7 @@
     <ClCompile Include="..\GetWindowPosition.cc">
       <ObjectFileName>$(IntDir)\GetWindowPosition.obj</ObjectFileName>
     </ClCompile>
-    <ClCompile Include="C:\Users\volke\AppData\Roaming\nvm\v18.16.1\node_modules\node-gyp\src\win_delay_load_hook.cc"/>
+    <ClCompile Include="C:\Users\volke\AppData\Roaming\nvm\v18.16.1\node_modules\npm\node_modules\node-gyp\src\win_delay_load_hook.cc"/>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets"/>
   <Import Project="$(VCTargetsPath)\BuildCustomizations\masm.targets"/>
